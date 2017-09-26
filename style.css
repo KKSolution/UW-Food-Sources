@@ -1,0 +1,20 @@
+/* Update this file with your styling rules. */
+
+body {
+	background-color: #252525;
+	color: red;
+}
+
+h1 {
+	font-size: 36pt;
+}
+
+
+table {
+	table-layout:fixed;
+	width: 110%;
+}
+
+td {
+	white-space: word-break;
+}
